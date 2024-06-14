@@ -24,7 +24,7 @@ a = []
 r,c=3,3
 for i in range(0,r):
     sub = []
-    print("Enter values for row ",i)
+    print("Enter values for row ",i):
     for j in range(0,c):
         print("enter values for column ",j)
         ele = int(input())
