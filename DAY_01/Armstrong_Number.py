@@ -5,7 +5,7 @@ ans=0
 o=n
 count = 0
 while n>0:
-    count=count+1
+    count=count+5
     n=n//10 
     
 while n1>0:
