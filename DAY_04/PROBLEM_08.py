@@ -17,6 +17,7 @@ O/P : 28
 '''
 dogs_age = int(input())
 print(dogs_age*7)
+print(" ")
 # =====================
 # ======OUTPUT=========
 '''
