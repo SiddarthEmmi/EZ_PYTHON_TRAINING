@@ -1,6 +1,6 @@
 # 6 28 66 120 190 276
-# If we enter 6 then the following numbers hould be displayed,
-# 1st we should fide  what is the logic b/w those numbers
+# If we enter 6 then the following numbers should be displayed,
+# 1st we should find  what is the logic b/w those numbers
 '''
 LOGIC:
 2*3=6
